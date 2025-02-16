@@ -25,3 +25,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/nschandunu"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="nschandunu" /></a></p><br><br>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nschandunu/nschandunu/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nschandunu/nschandunu/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/nschandunu/nschandunu/output/github-snake.svg" />
+</picture>
