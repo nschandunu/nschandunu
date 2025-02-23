@@ -20,11 +20,11 @@ I am a **Computer Science** student, currently halfway through my degree, expand
 - 📚 I’m currently learning ...
   - *C#*
   - *Swift*
-  - *MERN*
-- 🚀 I’m eager to join new projects.
-- ✔ Feel free to ask me anything! I’m motivated to help others.
-- Outside tech, I enjoy football, 🎮 playing video games, 🎵 listening to music, and I also love 🎬 video editing ▶• ılıılıılılılıılıılı
-- 📫 Reach out to me at: <a href="contact@nschandunu.com">contact@nschandunu.com</a>
+  - *MERN Stack*
+- 🚀 I’m eager to contribute to new projects and collaborate.
+- ✔ Feel free to reach out—I’m always happy to help!
+- Outside of tech, I enjoy football, 🎮 video games, 🎵 listening to music, and 🎬 video editing ▶• ılıılıılılılıılıılı
+- 📫 You can reach me at: <a href="contact@nschandunu.com">contact@nschandunu.com</a>
 <br>
 
 <!-- Profile Trophies -->
@@ -44,7 +44,7 @@ I am a **Computer Science** student, currently halfway through my degree, expand
   <!-- <a href="https://github.com/nschandunu/nschandunu/graphs/contributors"><img src="https://img.shields.io/github/contributors/nschandunu/nschandunu" alt="GitHub contributors"/></a> -->
   <!-- <a href="https://github.com/nschandunu/nschandunu/issues"><img src="https://img.shields.io/github/issues/nschandunu/nschandunu" alt="GitHub issues"/></a> -->
   <!-- <a href="https://github.com/nschandunu/nschandunu/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"/></a> -->
-  <!-- <a href="https://github.com/nschandunu/nschandunu"><img src="https://views.whatilearened.today/views/github/nschandunu/nschandunu.svg" alt="HitCount"/></a> -->
+  <a href="https://github.com/nschandunu/nschandunu"><img src="https://views.whatilearened.today/views/github/nschandunu/nschandunu.svg" alt="HitCount"/></a>
   <a href="https://github.com/nschandunu/nschandunu/stargazers"><img src="https://img.shields.io/github/stars/nschandunu" alt="Stars Badge"/></a>
   <a href="https://nschandunu.com/"><img src="https://img.shields.io/website-up-down-green-red/http/nschandunu.com/" alt="Website Status"/></a>
   <!-- <a href="https://x.com/SenukaX"><img src="https://img.shields.io/twitter/follow/senuka.svg?style=social" /></a> -->
@@ -166,7 +166,7 @@ I am a **Computer Science** student, currently halfway through my degree, expand
 
 <div align="center" style="display: flex; align-items: center; justify-content: center;">
     <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
-    <!-- <img alt="visitors counter" src="https://profile-counter.glitch.me/nschandunu/count.svg"> -->
+    <img alt="visitors counter" src="https://profile-counter.glitch.me/nschandunu/count.svg">
     <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
 </div>
 <br>
