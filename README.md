@@ -1,23 +1,22 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 <h1><b>Hi there, I'm </b><a href="https://github.com/nschandunu">SENUKA CHANDUNU</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 
-
 <!-- Social Links -->
 <div align="center">
+  <div align="left"> <img src="https://komarev.com/ghpvc/?username=senuka07&label=Profile%20views&color=0e75b6&style=flat" alt="senuka07" /> </div>
   <a href="mailto:contact@nschandunu.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=black" /></a>
   <a href="https://www.linkedin.com/in/nschandunu/"><img src="https://img.shields.io/badge/LinkedIn-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" /></a>
   <a href="https://www.instagram.com/_senuka.7_/"><img src="https://img.shields.io/badge/Instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" /></a>
   <a href="https://x.com/SenukaX"><img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=x&logoColor=white&color=black" /></a>
+    <a href="https://nschandunu.com"><img src="https://img.shields.io/badge/Website-%23.svg?&style=for-the-badge&logo=www&logoColor=white&color=black" /></a>
   <!-- <a href="https://www.kaggle.com/"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&color=black" /></a> -->
-  <a href="https://nschandunu.com"><img src="https://img.shields.io/badge/Website-%23.svg?&style=for-the-badge&logo=www&logoColor=white&color=black" /></a>
 </div>
-<
 
 <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;***About me***
 
 <img align="right" width=200px alt="Unicorn" src="https://media.tenor.com/XP4tw9P1yFoAAAAM/dedsec.gif"/>
 
-I am a **Computer Science** student currently halfway through my degree, expanding my knowledge in both back-end and front-end development. I have experience as a **web and iOS developer** and aim to strengthen my development skills while exploring new technologies. I love to learn and build something new, creative, and fun. Let’s connect and create something awesome! 🚀
+I am a **Computer Science** student, currently halfway through my degree, expanding my knowledge in both back-end and front-end development. I have experience as a **web and iOS developer** and aim to strengthen my development skills while exploring new technologies. I love to learn and build something new, creative, and fun. Let’s connect and create something awesome! 🚀
 - 📚 I’m currently learning ...
   - *C#*
   - *Swift*
@@ -119,7 +118,7 @@ I am a **Computer Science** student currently halfway through my degree, expandi
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">Evo Step</h3>
+      <h3 align="center">EvoStep</h3>
       <div align="center">
         <a href="http://evostep.store" target="_blank">
           <img src="https://ibb.co/HLdrhLFk" width="500" style="object-fit: cover;" alt="img">
@@ -141,22 +140,30 @@ I am a **Computer Science** student currently halfway through my degree, expandi
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 <p align="center">
-<table align="center">
-<tr>
-<td width="50%" align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=nschandunu&theme=nightowl&show_icons=true&count_private=true" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nschandunu&theme=nightowl&hide_border=false" alt="NSC's streak" />
-</td>
-<td width="50%" align="center">
-    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=nschandunu&theme=nightowl&hide_border=false&langs_count=10"/>
-</td>
-</tr>
-</table>
+  <table align="center">
+    <tr>
+      <td width="50%" align="center">
+          <img src="https://github-readme-stats.vercel.app/api?username=nschandunu&theme=nightowl&show_icons=true&count_private=true" />
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=nschandunu&theme=nightowl&hide_border=false" alt="NSC's streak" />
+      </td>
+      <td width="50%" align="center">
+          <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=nschandunu&theme=nightowl&hide_border=false&langs_count=10"/>
+          <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nschandunu&layout=compact&hide_border=true&title_color=F776C0&text_color=6594E2&bg_color=0d1117"/> -->
+      </td>
+    </tr>
+  </table>
 </p>
-<br>
 
-<!-- Visitor Counter -->
+<div align="center" style="display: flex; align-items: center; justify-content: center;">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nschandunu/nschandunu/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nschandunu/nschandunu/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/nschandunu/nschandunu/output/github-snake.svg" />
+  </picture>
+</div>
 <br>
+<!-- Visitor Counter -->
+
 <div align="center" style="display: flex; align-items: center; justify-content: center;">
     <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
     <img alt="visitors counter" src="https://profile-counter.glitch.me/nschandunu/count.svg">
@@ -168,39 +175,39 @@ I am a **Computer Science** student currently halfway through my degree, expandi
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=senuka07&label=Profile%20views&color=0e75b6&style=flat" alt="senuka07" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nschandunu&label=Profile%20views&color=0e75b6&style=flat" alt="nschandunu" /> </p> -->
+
+<!-- <h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/nschandunu"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="nschandunu" /></a></p><br><br> -->
 
 
 
-
-<h1 align="center">Hi 👋, I'm Senuka Chandunu</h1>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=senuka07&label=Profile%20views&color=0e75b6&style=flat" alt="senuka07" /> </p>
-
-
----
-
-- 🔭 I’m currently studying Computer Science at **University of Plymouth**
-
-- 🌱 I’m currently learning **Python, JAVA & Swift**
-
-- 📫 How to reach me **nschandunu@outlook.com**
-
-<h3 align="left">Connect with me:</h3>
+<!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/senukax" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="senukax" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/senukachandunu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="senukachandunu" height="30" width="40" /></a>
-<a href="https://instagram.com/_senuka.7_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_senuka.7_" height="30" width="40" /></a>
+  <a href="https://twitter.com/senukax" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="senukax" height="30" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/senukachandunu" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="senukachandunu" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/_senuka.7_" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_senuka.7_" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
-
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/nschandunu"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="nschandunu" /></a></p><br><br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nschandunu/nschandunu/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nschandunu/nschandunu/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/nschandunu/nschandunu/output/github-snake.svg" />
-</picture>
+<p align="left">
+  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/>
+  </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  </a>
+</p> -->
