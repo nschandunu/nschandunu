@@ -1,5 +1,5 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-<h1><b>Hi there, I'm </b><a href="https://github.com/AAL1X">SENUKA CHANDUNU</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+<h1><b>Hi there, I'm </b><a href="https://github.com/nschandunu">SENUKA CHANDUNU</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 
 
 <!-- Social Links -->
@@ -75,6 +75,7 @@ I am a **Computer Science** student currently halfway through my degree, expandi
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)&nbsp; 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)&nbsp;
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)&nbsp;
 
 ###### Backend & Frameworks:
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;
@@ -100,13 +101,13 @@ I am a **Computer Science** student currently halfway through my degree, expandi
 <!-- ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp; -->
 
 ###### Development Environments:
-![JetBrains Rider](https://img.shields.io/badge/JetBrains_Rider-000000?style=for-the-badge&logo=jetbrains&logoColor=white)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)&nbsp;
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)&nbsp;
 ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)&nbsp;
+![JetBrains Rider](https://img.shields.io/badge/JetBrains_Rider-000000?style=for-the-badge&logo=jetbrains&logoColor=white)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)&nbsp;
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)&nbsp;
 ![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white)&nbsp;
-<!-- ![Swift Playgrounds](https://img.shields.io/badge/Swift_Playgrounds-F05138?style=for-the-badge&logo=swift&logoColor=white)&nbsp; -->
 <!-- ![Cursor](https://img.shields.io/badge/Cursor-FF530D?style=for-the-badge&logo=cursor&logoColor=white)&nbsp; -->
+<!-- ![Swift Playgrounds](https://img.shields.io/badge/Swift_Playgrounds-F05138?style=for-the-badge&logo=swift&logoColor=white)&nbsp; -->
 
 <br>
 <br>
@@ -115,6 +116,56 @@ I am a **Computer Science** student currently halfway through my degree, expandi
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Evo Step</h3>
+      <div align="center">
+        <a href="http://evostep.store" target="_blank">
+          <img src="https://ibb.co/HLdrhLFk" width="500" style="object-fit: cover;" alt="img">
+        </a>
+        <p>
+          <a href="https://github.com/nschandunu/evostep-web" target="_blank">
+            <img src="https://img.shields.io/badge/CÓDE-ff9?style=for-the-badge&logo=github&logoColor=black&color=blue">
+          </a>
+        </p>
+        <p><strong>EVOSTEP</strong> is an e-commerce shoe website developed using <strong>PHP</strong>, <strong>MySQL</strong>, <strong>JavaScript</strong>, and <strong>Tailwind CSS</strong>, combining an attractive user interface, easy-to-use shopping features, an admin panel, and a smooth browsing experience.</p>
+      </div>
+    </td>
+  </tr>
+</table>
+<br>
+
+<!-- Github Stats -->
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;***Github Stats***
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
+<p align="center">
+<table align="center">
+<tr>
+<td width="50%" align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=nschandunu&theme=nightowl&show_icons=true&count_private=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nschandunu&theme=nightowl&hide_border=false" alt="NSC's streak" />
+</td>
+<td width="50%" align="center">
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=nschandunu&theme=nightowl&hide_border=false&langs_count=10"/>
+</td>
+</tr>
+</table>
+</p>
+<br>
+
+<!-- Visitor Counter -->
+<br>
+<div align="center" style="display: flex; align-items: center; justify-content: center;">
+    <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
+    <img alt="visitors counter" src="https://profile-counter.glitch.me/nschandunu/count.svg">
+    <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
+</div>
+<br>
+<br>
+
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 
 
