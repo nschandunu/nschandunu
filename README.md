@@ -121,11 +121,11 @@ I am a **Computer Science** student, currently halfway through my degree, expand
       <h3 align="center">EvoStep</h3>
       <div align="center">
         <a href="http://evostep.store" target="_blank">
-          <img src="https://ibb.co/HLdrhLFk" width="500" style="object-fit: cover;" alt="img">
+          <img src="https://raw.githubusercontent.com/nschandunu/nschandunu/refs/heads/main/assets/logo.png" width="500" style="object-fit: cover;" alt="img">
         </a>
         <p>
           <a href="https://github.com/nschandunu/evostep-web" target="_blank">
-            <img src="https://img.shields.io/badge/CÓDE-ff9?style=for-the-badge&logo=github&logoColor=black&color=blue">
+            <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black&color=blue">
           </a>
         </p>
         <p><strong>EVOSTEP</strong> is an e-commerce shoe website developed using <strong>PHP</strong>, <strong>MySQL</strong>, <strong>JavaScript</strong>, and <strong>Tailwind CSS</strong>, combining an attractive user interface, easy-to-use shopping features, an admin panel, and a smooth browsing experience.</p>
@@ -147,7 +147,7 @@ I am a **Computer Science** student, currently halfway through my degree, expand
           <img src="https://github-readme-streak-stats.herokuapp.com/?user=nschandunu&theme=nightowl&hide_border=false" alt="NSC's streak" />
       </td>
       <td width="50%" align="center">
-          <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=nschandunu&theme=nightowl&hide_border=false&langs_count=10"/>
+          <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=nschandunu&theme=nightowl&hide_border=false&langs_count=8"/>
           <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nschandunu&layout=compact&hide_border=true&title_color=F776C0&text_color=6594E2&bg_color=0d1117"/> -->
       </td>
     </tr>
@@ -172,6 +172,7 @@ I am a **Computer Science** student, currently halfway through my degree, expand
 <br>
 <br>
 
+<!-- <img src="https://raw.githubusercontent.com/nschandunu/nschandunu/refs/heads/main/assets/banner-footer.png"> -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 
@@ -201,13 +202,7 @@ I am a **Computer Science** student, currently halfway through my degree, expand
   <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/>
   </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   </a>
 </p> -->
